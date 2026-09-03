@@ -1,0 +1,14 @@
+{
+  "name": "shree-multi-services-backend",
+  "version": "1.0.0",
+  "description": "Shree Multi Services Razorpay Payment Backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "razorpay": "^2.9.6"
+  }
+}
